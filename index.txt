@@ -1,0 +1,163 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Yusuf Noor
+Yusuf Noor
+Fluter developer, Graphic Designer, Developer 
+
+Show Contacts
+
+Email
+yusufnoor786@gmail.com
+
+Phone
++91 9504440781
+
+Birthday
+July 15, 2000
+
+Location
+Bhoapl, Madhya Pardesh, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Hi there! I'm Yusuf Noor, From Bhaopla, Madhya Pardesh, India. a passionate tech enthusiast with a background in Computer Science Engineering. My journey in the digital realm has led me to specialize as a Flutter developer and graphic designer.
+
+Professional Journey
+
+With a Bachelor's degree in Computer Science Engineering, I have honed my skills in creating seamless user experiences through Flutter development. Over the years, I have gathered hands-on experience in Android development and graphic design, with a specific focus on creating visually appealing and functional interfaces.
+
+Skills
+
+My skill set includes:
+
+* Flutter Development: Building cross-platform mobile applications with a focus on performance and user experience.
+* Graphic Design: Crafting visually captivating designs that enhance user interaction and engagement.
+* Android Development: Creating native Android applications with proficiency in Java/Kotlin.
+
+## service
+
+What i'm doing
+
+alt = design icon
+Graphic designer
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+AOSP Project
+A AOSP project MistOS at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = git icon
+Github
+Validate & push the codes on git at a professional level.
+
+
+
+# resume
+
+Resume
+
+Education
+
+BTech in CSE
+2020-2024
+LNCT Bhopal, Madhya Pardesh.
+
+Diploma/ Polytechnic 
+2016-2019
+Diploma In Electrical Engineering 
+Bit Polytechnic College,
+Ranchi, Jharkhand. 
+
+Matriculation 
+2016
+St' Stephen School Hazaribagh, Jharkhand.
+
+Experience
+
+AS Earth Mover 
+2023 ( 6th Month Internship)
+Graphic Designer, Logo Designer, Contract Designer.
+
+Flutter Developer 
+I Build a app on Flutter
+
+
+My skills
+
+Graphic design
+80%
+Flutter developer
+70%
+Branding
+90%
+github
+90%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Grphic design
+Applications design
+App development
+UI development
+
+Select category
+All
+Graphic design
+Applications design
+App development
+UI development
+
+alt = AS earth mover
+AS Earth Mover 
+Graphic Design
+
+alt = Flutter
+Flutter 
+App development
+
+alt = Github
+GitHub
+Code Maintain
+
+alt = Flutter Flow
+FlutterFlow
+Applications
+
+
+alt = AOSP Project
+AOSP Project
+MistOS
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
